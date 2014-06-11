@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Wyjazd.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2157" topLine="96" />
+	</File>
+	<File name="Wyjazd.h" open="1" top="0" tabpos="2">
+		<Cursor position="392" topLine="21" />
+	</File>
+	<File name="baza.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="3902" topLine="179" />
+	</File>
+	<File name="baza.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="9" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="249" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

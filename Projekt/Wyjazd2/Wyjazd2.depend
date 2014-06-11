@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1402444049 source:c:\users\adrian\desktop\projektnarzedzia\wjazd\wyjazd2\baza.cpp
+	"baza.h"
+
+1402435529 c:\users\adrian\desktop\projektnarzedzia\wjazd\wyjazd2\baza.h
+	<fstream>
+	<string.h>
+	<iostream>
+
+1402470248 source:c:\users\adrian\desktop\projektnarzedzia\wjazd\wyjazd2\main.cpp
+	<iostream>
+	"Wyjazd.h"
+
+1402440241 c:\users\adrian\desktop\projektnarzedzia\wjazd\wyjazd2\wyjazd.h
+	"baza.h"
+	<cstdlib>
+	<ctime>
+
+1402444544 source:c:\users\adrian\desktop\projektnarzedzia\wjazd\wyjazd2\wyjazd.cpp
+	"Wyjazd.h"
+
