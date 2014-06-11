@@ -57,7 +57,7 @@ string CBaza::GetReg(int Numer)
     char* str=new char[sizeREG+1];
     Numer=Numer*sizeREG;
     plik.seekg(Numer);
-    if(!plik.eof())
+    if(!plik.eof())//xml lub baza
     {
         plik.get(str,sizeREG+1);
         buffor=str;
